@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from PIL import ImageTk, Image
 
 # OpenWeatherMap API configuration
-API_KEY = "52f2c25d57338fb5524441123416d119"
+API_KEY = ""
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
 ICON_URL = "http://openweathermap.org/img/w/"
